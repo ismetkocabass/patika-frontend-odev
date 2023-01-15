@@ -1,5 +1,6 @@
 ## SELECTION SORT PROJECT
 
+Selection Sort Projesi
 
 ## Selection Sort
 - [22,27,16,2,18,6] 
