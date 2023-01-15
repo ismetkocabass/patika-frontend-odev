@@ -3,7 +3,7 @@
 Merge Sort Projesi
 
 ## Merge Sort
-- [16,21,11,8,12,22] n ELEMAN
+- [16,21,11,8,12,22] n elaman
 
 - [16,21,11] [8,12,22]
 
